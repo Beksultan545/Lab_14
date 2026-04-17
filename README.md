@@ -42,6 +42,7 @@ Registration form with keyboard handling and real-time email validation.
 - `secureTextEntry` for password field
 - `keyboardType="email-address"` for email field
 
+
 ---
 
 ## Folder Structure
