@@ -35,6 +35,7 @@ Registration form with keyboard handling and real-time email validation.
 - `TouchableWithoutFeedback` — dismisses keyboard on outside tap
 - `keyboardVerticalOffset={64}` — offset for iOS status bar
 
+
 ### Form Validation
 - Real-time email regex validation
 - Error message shown for invalid email format
